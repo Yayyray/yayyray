@@ -1,4 +1,6 @@
-### 🌱 Atualmente estou estudando **Análise e Desenvolvimento de Sistemas (ADS)**, com foco em **desenvolvimento de software e web**.
+### Ola, prazer Rayanne!
+
+🌱 Atualmente estou estudando **Análise e Desenvolvimento de Sistemas (ADS)**, com foco em **desenvolvimento de software e web
 
 🔧 Busco colaborar em projetos de tecnologia, sites educacionais ou soluções para produtividade e estudos.
 

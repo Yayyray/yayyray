@@ -2,11 +2,11 @@
 
 🔧 Busco colaborar em projetos de tecnologia, sites educacionais ou soluções para produtividade e estudos.
 
-💬 Estou sempre aberta a dicas e ajuda!
+😄 **Pronomes**: ela/dela
 
 📫 **Contato**: contact.rayanneester@gmail.com
 
-😄 **Pronomes**: ela/dela
+💡 Ajuda e dicas sempre são bem-vindas!!
 
 <div> 
   <a href="https://instagram.com/yayyray_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
